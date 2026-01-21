@@ -82,7 +82,7 @@ I love **building full-stack applications**, tackling complex backend challenges
 
 ---
 
-## Tech Badges (optional)
+## Tech Badges 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
