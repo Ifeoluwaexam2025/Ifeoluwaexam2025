@@ -1,18 +1,17 @@
-# Hi, I'm Ifeoluwa 👋
+# Hi, I'm Ifeoluwa 
 
-I'm a passionate **software-developer** specializing in web-development especially backend and frontend development, cloud computing, and data-driven applications.I am also skilled in mobile programming and test automations.  
+I'm a passionate **full-stack software developer** specializing in **backend, frontend, cloud, and mobile development**, as well as **test automation**.  
 I build scalable and maintainable systems using modern technologies and best practices.
-
 
 ---
 
-## 🔹 About Me
+##  About Me
 
-- Computer Science student 
+-  Computer Science student  
 -  Full-stack development: **Node.js, Express, React, PostgreSQL**  
--  Cloud & DevOps: **Docker, Docker Compose, Azure (basics)**  
-- Interested in **AI, Data, and Automation**  
-- Writing **clean code**, implementing **unit tests**, and building **production-ready applications**
+-  Cloud & DevOps: **Docker, Docker Compose, Azure (fundamentals)**  
+-  Interested in **AI, Data, and Automation**  
+-  Writing **clean code**, implementing **unit tests**, and building **production-ready applications**  
 -  Mobile Programming: **Kotlin**, **React Native**
 
 ---
@@ -43,7 +42,7 @@ A **full-stack cinema ticketing system**:
 - Browse movies, select seats, book tickets  
 - Full-stack integration (frontend + backend + DB)  
 
-**Tech stack:** React, TypeScript, Node.js, Express, PostgreSQL (likely)
+**Tech stack:** React, TypeScript, Node.js, Express, PostgreSQL  
 
 ---
 
@@ -59,23 +58,33 @@ A hobby session management system:
 
 ---
 
-## 🔹 Skills & Technologies
+##  Skills & Technologies
 
-| Frontend | Backend | Database | Cloud / DevOps | Testing |
-|----------|--------|---------|----------------|---------|
-| React | Node.js | PostgreSQL | Docker / Docker Compose | Jest |Java|Kotlin|React Native
-| TypeScript | Express | MongoDB | AzureDevOps | Python |
-| HTML/CSS | REST APIs | SQL | CI/CD (GitHub Actions) | Integration tests |
-
----
-
-## 🔹 How to Reach Me
-
-- Email: **[ifeoogungbe@gmail.com]**  
-- LinkedIn: **www.linkedin.com/in/ifeoluwa-ogungbemi-39083b363**  
-- GitHub: **https://github.com/Ifeoluwaexam2025**
+| Frontend       | Backend       | Database     | Cloud / DevOps               | Testing & Mobile           |
+|----------------|---------------|-------------|-----------------------------|---------------------------|
+| React           | Node.js       | PostgreSQL  | Docker / Docker Compose     | Jest                       |
+| TypeScript      | Express       | MongoDB     | Azure DevOps                | Integration tests          |
+| HTML/CSS        | REST APIs     | SQL         | CI/CD (GitHub Actions)      | Java, Kotlin, React Native |
+| React Native    | Python        |             |                             |                           |
 
 ---
 
-## 🔹 Fun Fact
+## How to Reach Me
+
+- Email: **[ifeoogungbe@gmail.com](mailto:ifeoogungbe@gmail.com)**  
+- LinkedIn: [https://www.linkedin.com/in/ifeoluwa-ogungbemi-39083b363](https://www.linkedin.com/in/ifeoluwa-ogungbemi-39083b363)  
+- GitHub: [https://github.com/Ifeoluwaexam2025](https://github.com/Ifeoluwaexam2025)
+
+---
+
+##  Fun Fact
 I love **building full-stack applications**, tackling complex backend challenges, and turning ideas into working systems 🚀
+
+---
+
+## Tech Badges (optional)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
