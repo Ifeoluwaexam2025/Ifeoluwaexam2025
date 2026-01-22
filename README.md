@@ -34,7 +34,8 @@ A **production-ready backend** for managing service requests:
 ---
 
 ### 2. **Cinema Ticketing Platform**
-[Popcore-DIN24](https://github.com/Popcore-DIN24)  
+[Popcore-DIN24](https://github.com/Popcore-DIN24) 
+[APP DEMO](https://youtu.be/6bIwVMuAOCE?si=uBtnIs5XEikDa1Bl) 
 
 A **full-stack cinema ticketing system**:
 - Frontend: React + TypeScript  
