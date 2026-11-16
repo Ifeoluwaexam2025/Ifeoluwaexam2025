@@ -26,7 +26,9 @@ A mobile-first application exploring how nurses could organize fictional patient
 - Unit, interaction and end-to-end browser tests
 - Responsive interface and accessibility considerations
 
-[Explore CareFlow](https://github.com/Ifeoluwaexam2025/Careflow-Health-Tech-)
+
+**[🚀 Live Demo](https://careflow-demo.web.app/)** ·
+**[💻 Source Code](https://github.com/Ifeoluwaexam2025/Careflow-Health-Tech-)**
 
 *Portfolio prototype using fictional data. Not intended for clinical use.*
 
