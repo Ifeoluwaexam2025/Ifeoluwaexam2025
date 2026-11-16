@@ -1,91 +1,87 @@
-# Hi, I'm Ifeoluwa 
+# Hi, I'm Ifeoluwa Ogungbemi 👋
 
-I'm a passionate **full-stack software developer** specializing in **backend, frontend, cloud, and mobile development**, as well as **test automation**.  
-I build scalable and maintainable systems using modern technologies and best practices.
+**Information Technology Engineering Student | Aspiring Software Engineer**
 
----
+📍 Oulu, Finland
 
-##  About Me
+I build web applications, backend APIs and software prototypes using **React, TypeScript, Node.js and Python**.
 
--  Computer Science student  
--  Full-stack development: **Node.js, Express, React, PostgreSQL**  
--  Cloud & DevOps: **Docker, Docker Compose, Azure (fundamentals)**  
--  Interested in **AI, Data, and Automation**  
--  Writing **clean code**, implementing **unit tests**, and building **production-ready applications**  
--  Mobile Programming: **Kotlin**, **React Native**
+I'm particularly interested in software architecture, backend development, clean code and automated testing. I enjoy taking a problem from requirements through implementation and verification, while learning how to build systems that are easier to understand and maintain.
 
----
+I'm currently seeking opportunities to develop my skills through a **software engineering internship**.
 
-## 🔹 Highlighted Projects
+## Featured Projects
 
-### 1. **Digital Cloud Service (Backend API)**
-[Repo Link](https://github.com/Ifeoluwaexam2025/Digital-Cloud-Service)  
+### 🏥 CareFlow — Nursing Workflow Prototype
 
-A **production-ready backend** for managing service requests:
-- Node.js + Express API  
-- PostgreSQL database with schema migrations  
-- Dockerized for development and deployment  
-- JWT authentication & role-based access  
-- Jest tests for health checks and endpoints  
-- `/health` endpoint for monitoring  
+**React · TypeScript · Vite · Vitest · Playwright**
 
-**Tech stack:** Node.js, Express, PostgreSQL, Docker, Jest, JWT  
+A mobile-first application exploring how nurses could organize fictional patient tasks and simulated observations.
 
----
+**Engineering highlights:**
+- Patient and task management with a consistent domain model
+- Factory Method pattern for creating different task categories
+- Centralized state updates and browser persistence
+- Data validation, migration and recovery handling
+- Unit, interaction and end-to-end browser tests
+- Responsive interface and accessibility considerations
 
-### 2. **Cinema Ticketing Platform**
-[Popcore-DIN24](https://github.com/Popcore-DIN24) 
-[APP DEMO](https://youtu.be/6bIwVMuAOCE?si=uBtnIs5XEikDa1Bl) 
+[Explore CareFlow](https://github.com/Ifeoluwaexam2025/Careflow-Health-Tech-)
 
-A **full-stack cinema ticketing system**:
-- Frontend: React + TypeScript  
-- Backend: Node.js + Express + REST API  
-- Browse movies, select seats, book tickets  
-- Full-stack integration (frontend + backend + DB)  
+*Portfolio prototype using fictional data. Not intended for clinical use.*
 
-**Tech stack:** React, TypeScript, Node.js, Express, PostgreSQL  
+### ⚙️ Digital Cloud Service — Backend API
 
----
+**Node.js · Express · PostgreSQL · Docker**
 
-### 3. **Session App**
-[Frontend + Backend]  
+A service-request management backend exploring API development, authentication, database persistence and automated testing.
 
-A hobby session management system:
-- React frontend for creating and managing sessions  
-- Node.js backend for session data API  
-- Purpose: organize group/hobby activities  
+**Engineering highlights:**
+- REST API design
+- JWT-based authentication and role-based access
+- PostgreSQL database migrations
+- Containerized development environment
+- API and application testing
 
-**Tech stack:** React, Node.js, Express, REST APIs  
+[Explore the Backend](https://github.com/Ifeoluwaexam2025/Digital-CloudService)
 
----
+### 🌐 Session App — Full-Stack Application
 
-##  Skills & Technologies
+**React · Node.js · Express**
 
-| Frontend       | Backend       | Database     | Cloud / DevOps               | Testing & Mobile           |
-|----------------|---------------|-------------|-----------------------------|---------------------------|
-| React           | Node.js       | PostgreSQL  | Docker / Docker Compose     | Jest                       |
-| TypeScript      | Express       | MongoDB     | Azure DevOps                | Integration tests          |
-| HTML/CSS        | REST APIs     | SQL         | CI/CD (GitHub Actions)      | Java, Kotlin, React Native |
-| React Native    | Python        |             |                             |                           |
+A hobby-session management application combining a React interface with a backend API.
 
----
+[Frontend Repository](https://github.com/Ifeoluwaexam2025/session-app-frontend) · [Backend Repository](https://github.com/Ifeoluwaexam2025/session-app-backend)
 
-## How to Reach Me
+## Technical Skills
 
-- Email: **[ifeoogungbe@gmail.com](mailto:ifeoogungbe@gmail.com)**  
-- LinkedIn: [https://www.linkedin.com/in/ifeoluwa-ogungbemi-39083b363](https://www.linkedin.com/in/ifeoluwa-ogungbemi-39083b363)  
-- GitHub: [https://github.com/Ifeoluwaexam2025](https://github.com/Ifeoluwaexam2025)
+**Languages:** TypeScript, JavaScript, Python, SQL, Java, Kotlin
 
----
+**Frontend:** React, HTML, CSS, React Native
 
-##  Fun Fact
-I love **building full-stack applications**, tackling complex backend challenges, and turning ideas into working systems 🚀
+**Backend:** Node.js, Express, REST APIs
 
----
+**Databases:** PostgreSQL, MongoDB
 
-## Tech Badges 
+**Tools and practices:** Git, Docker, automated testing, API integration, debugging, software design patterns
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Currently developing:** Software architecture, testing practices and reliable application design
+
+## What I'm Learning
+
+I use my projects to deepen my understanding of:
+
+- Separating business logic from user interfaces
+- Designing reusable functions and components
+- Modeling relationships between application entities
+- Managing data consistency and persistence
+- Writing meaningful tests
+- Evaluating design patterns and architectural trade-offs
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/ifeoluwa-ogungbemi-39083b363)
+- [GitHub](https://github.com/Ifeoluwaexam2025)
+- [Email](mailto:ifeoogungbe@gmail.com)
+
+I'm interested in software engineering internships, collaborative development and opportunities to learn from experienced engineers.
