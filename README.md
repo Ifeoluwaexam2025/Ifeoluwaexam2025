@@ -32,20 +32,23 @@ A mobile-first application exploring how nurses could organize fictional patient
 
 *Portfolio prototype using fictional data. Not intended for clinical use.*
 
-### ⚙️ Digital Cloud Service — Backend API
 
-**Node.js · Express · PostgreSQL · Docker**
+### 🎫 CompTick — Full-Stack Service Request Management
 
-A service-request management backend exploring API development, authentication, database persistence and automated testing.
+**React · TypeScript · Node.js · Express · PostgreSQL · Firebase · Render · Neon**
+
+A deployed service management application where users create and track
+requests, while administrators manage status changes and inspect audit history.
 
 **Engineering highlights:**
-- REST API design
-- JWT-based authentication and role-based access
-- PostgreSQL database migrations
-- Containerized development environment
-- API and application testing
+- Responsive React and TypeScript frontend integrated with a REST API
+- JWT authentication, role-based access and ownership validation
+- PostgreSQL persistence and transactional audit logging
+- Unit, API integration and browser testing
+- Full-stack deployment using Firebase Hosting, Render and Neon
 
-[Explore the Backend](https://github.com/Ifeoluwaexam2025/Digital-CloudService)
+**[🚀 Live Demo](https://comptick.web.app/)** ·
+**[💻 Source Code](https://github.com/Ifeoluwaexam2025/Digital-CloudService)**
 
 ### 🌐 Session App — Full-Stack Application
 
